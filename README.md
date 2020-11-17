@@ -15,6 +15,10 @@ Here we used a technique called Bag-Of-Words to transform text into independent 
 
 Task: On the basis of twitter data tweets, predict if a tweet has a negative sentiment or not.
 
+## Sample data:
+
+!(../master/Sentiment-Analysis/Sample Data.png)
+
 Methodology:
 
 1. Read data using stringsAsFactors = FALSE
