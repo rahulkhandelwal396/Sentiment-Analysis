@@ -17,7 +17,7 @@ Task: On the basis of twitter data tweets, predict if a tweet has a negative sen
 
 ## Sample data:
 
-!(Sample Data.png)
+<img src="Sample Data.png" alt="Data"/>
 
 Methodology:
 
