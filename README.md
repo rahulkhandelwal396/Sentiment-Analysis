@@ -1,4 +1,4 @@
-# Sentiment-Analysis
+# Sentiment Analysis of Twitter data
 
 Code performs Sentiment Analysis of Twitter data using bag-of-words method and standard Machine Learning algorithms using R.
 
@@ -17,11 +17,11 @@ Here we used a technique called Bag-Of-Words to transform text into independent 
 
 On the basis of twitter data tweets, predict if a tweet has a negative sentiment or not.
 
-# Sample data:
+# Sample data
 
 <img src="Sample Data.png" alt="Data"/>
 
-# Methodology:
+# Methodology
 
 1. Read data using stringsAsFactors = FALSE
 2. Create target variable as a factor : Negative where Avg <= -1
