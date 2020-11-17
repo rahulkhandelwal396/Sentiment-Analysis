@@ -13,13 +13,15 @@ Our human intelligence task included 5 people giving rating to the sentiment of 
 
 Here we used a technique called Bag-Of-Words to transform text into independent variables.
 
-Task: On the basis of twitter data tweets, predict if a tweet has a negative sentiment or not.
+# Task
 
-## Sample data:
+On the basis of twitter data tweets, predict if a tweet has a negative sentiment or not.
+
+# Sample data:
 
 <img src="Sample Data.png" alt="Data"/>
 
-Methodology:
+# Methodology:
 
 1. Read data using stringsAsFactors = FALSE
 2. Create target variable as a factor : Negative where Avg <= -1
